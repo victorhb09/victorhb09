@@ -21,8 +21,8 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades em:
 -  Sempre em busca de novos desafios na programação  
   
 
+## 🌐 Conecte-se comigo
 <p align="center">
-
 <a href="https://www.instagram.com/vitinhb09" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" height="50"/>
   </a>
