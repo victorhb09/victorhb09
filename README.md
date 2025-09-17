@@ -16,6 +16,7 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades em:
 </p>
 
 ## 📚 Sobre Mim
-- 🔹 Aprendendo e desenvolvendo projetos em Java e Python  
-- 🔹 Praticando Banco de Dados com MySQL 
-- 🔹 Sempre em busca de novos desafios na programação  
+ 🔹 Aprendendo e desenvolvendo projetos em Java e Python  
+ 🔹 Praticando Banco de Dados com MySQL 
+ 🔹 Sempre em busca de novos desafios na programação
+  
