@@ -1,16 +1,16 @@
-<p><strong>Java</strong></p>
-<div style="background:#e6e6e6;border-radius:6px;padding:3px;">
-<div style="width:85%;background:#4caf50;color:#fff;padding:6px;border-radius:3px;text-align:right">85%</div>
-</div>
+# 👋 Olá, eu sou o Victor!
 
+Sou estudante de **Tecnologia da Informação** e apaixonado por programação e banco de dados.  
+Atualmente desenvolvendo projetos e aprimorando minhas habilidades em:
 
-<p><strong>Python</strong></p>
-<div style="background:#e6e6e6;border-radius:6px;padding:3px;">
-<div style="width:80%;background:#3572A5;color:#fff;padding:6px;border-radius:3px;text-align:right">80%</div>
-</div>
+---
 
+## 🚀 Minhas Habilidades
 
-<p><strong>MySQL</strong></p>
-<div style="background:#e6e6e6;border-radius:6px;padding:3px;">
-<div style="width:75%;background:#f29111;color:#fff;padding:6px;border-radius:3px;text-align:right">75%</div>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="80" height="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
+</p>
