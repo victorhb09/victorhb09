@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Victor!
 
-Sou estudante de **Tecnologia da Informação** e apaixonado por programação e banco de dados.  
+Sou estudante de TI e estou começando meu aprendizado em programação e banco de dados.  
 Atualmente desenvolvendo projetos e aprimorando minhas habilidades em:
 
 ---
@@ -14,3 +14,8 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades em:
   &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
 </p>
+
+## 📚 Sobre Mim
+- 🔹 Aprendendo e desenvolvendo projetos em Java e Python  
+- 🔹 Praticando Banco de Dados com MySQL 
+- 🔹 Sempre em busca de novos desafios na programação  
