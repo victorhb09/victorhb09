@@ -20,3 +20,14 @@ Atualmente desenvolvendo projetos e aprimorando minhas habilidades em:
 -  Praticando Banco de Dados com MySQL  
 -  Sempre em busca de novos desafios na programação  
   
+
+<p align="center">
+
+<a href="https://www.instagram.com/vitinhb09" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="50" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:az09.victopp@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="50" height="50"/>
+  </a>
+</p>
